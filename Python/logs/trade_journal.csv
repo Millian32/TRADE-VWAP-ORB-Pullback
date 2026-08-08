@@ -1,0 +1,2 @@
+timestamp,symbol,action,qty,price,realized_pnl,equity,drawdown_pct,broker,note
+2026-08-07 15:59:00-04:00,SPY,enter_long,38,773.1199951171875,0.0,30000.0,0.0,paper,dry_run
