@@ -17,7 +17,7 @@
     "timezone": "America/New_York"
   },
   "market_data": {
-    "source": "yfinance",
+    "source": "alpaca",
     "alpaca_base_url": "https://data.alpaca.markets",
     "alpaca_feed": "iex",
     "alpaca_api_key_env": "ALPACA_API_KEY",
